@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# dotenv files
+.env
+
+# build output
+client/build/
+
+# OS & editor files
+.DS_Store
+.vscode/
+
+# Firebase logs
+firebase-debug.log

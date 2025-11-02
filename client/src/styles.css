@@ -1,0 +1,4 @@
+:root{--bg-dark:#0b0c10;--card-grey:#2e2e2e;}
+body{background:var(--bg-dark);color:#fff;}
+.sidebar{background:#0d0e12;min-height:100vh;}
+.card-custom{background:var(--card-grey);color:#fff;border:none;}
