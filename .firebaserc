@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "your-firebase-project-id"
-  }
+    "default": "lkay-c1a5a"
+  },
+  "targets": {},
+  "etags": {}
 }

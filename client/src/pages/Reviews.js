@@ -32,8 +32,7 @@ export default function Reviews(){
               <h5>{r.title}</h5>
               <p className="text-muted small">By {r.author || 'Anonymous'}</p>
               <p>{r.content}</p>
-              <p>⭐ {r.rating || 'No rating'}</p>
-
+              
               {user && (user.displayName===r.author || user.email===r.author) && (
                 <div>
                   <Link to={'/edit/'+r.id} className="btn btn-sm btn-outline-light me-2">Edit</Link>
