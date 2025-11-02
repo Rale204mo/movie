@@ -13,3 +13,6 @@ client/build/
 
 # Firebase logs
 firebase-debug.log
+# Firebase service account
+server/serviceAccountKey.json
+server/serviceAccountKey.json.json
